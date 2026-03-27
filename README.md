@@ -1,7 +1,7 @@
 ​Open Source Audit - Python
 ​Course: Open Source Software (OSS NGMC)
-Student Name: [Your Name]
-Roll Number: [Your Roll Number]
+Student Name: YOGESHWARANR
+Roll Number: 24BAS10011
 Chosen Software: Python  
 ​Project Overview
 ​This repository contains the practical component of the Capstone Project for the OSS course. It includes five functional shell scripts that demonstrate Linux system administration and automation skills, specifically focused on the Python ecosystem.  
